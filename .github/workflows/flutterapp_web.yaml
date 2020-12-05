@@ -3,7 +3,7 @@ name: Flutter Web pg
 on:
   push:
     branches:
-      - main
+      - develop
       
 jobs:
   build:
