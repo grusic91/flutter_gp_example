@@ -23,6 +23,14 @@ class MyApp extends StatelessWidget {
             ),
             body: Column(
               children: [
+                Container(
+                    child: Center(
+                  child: Text(
+                    'Hello World!',
+                    style:
+                        TextStyle(fontSize: 30.0, fontWeight: FontWeight.bold),
+                  ),
+                )),
                 Text(
                   queations[questionIndex],
                 ),
