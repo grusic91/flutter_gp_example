@@ -1,6 +1,7 @@
 # flutter_gp_example
 
 A new Flutter project.
+- [webpage of flutter_gp_example](https://grusic91.github.io/flutter_gp_example/)
 
 ## Getting Started
 
