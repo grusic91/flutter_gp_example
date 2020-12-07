@@ -42287,7 +42287,7 @@ $S:30}
 F.o7.prototype={
 Jq:function(){P.rG(++this.c)},
 K:function(a,b){var s=null,r=L.NI("My firsst App Hello World!",s)
-return new S.nU(new M.oS(new E.mw(r,new P.ab(1/0,56),s),T.a1Z(H.d([L.NI(["What's your favourite color?","What's your favourite animal?"][this.c],s),new D.w6(this.gJp(),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,L.NI("Answer 1",s),s,s,s,C.R,s,!1,s,s,s)],t.fQ),C.oE),s),s)}}
+return new S.nU(new M.oS(new E.mw(r,new P.ab(1/0,56),s),T.a1Z(H.d([L.NI(["What's your favourite color?","What's your favourite animal?"][this.c],s),new D.w6(this.gJp(),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,L.NI("HELLO WORLD!",s),s,s,s,C.R,s,!1,s,s,s)],t.fQ),C.oE),s),s)}}
 E.fN.prototype={
 gk:function(a){return this.b},
 h:function(a,b){if(b>=this.b)throw H.a(P.aY(b,this,null,null,null))
