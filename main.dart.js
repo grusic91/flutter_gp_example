@@ -42171,7 +42171,7 @@ N.Sk.prototype={
 $1:function(a){return!0},
 $S:30}
 F.v8.prototype={
-K:function(a,b){return new S.nU(new F.o6("Flutterss Demo Home Page",null),"Flutter Demo",X.Y2(null,C.lH),null)}}
+K:function(a,b){return new S.nU(new F.o6("Flutterss Demosss Home Page",null),"Flutter Demo",X.Y2(null,C.lH),null)}}
 F.o6.prototype={
 aJ:function(){return new F.qq(C.l)}}
 F.qq.prototype={
