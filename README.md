@@ -1,17 +1,5 @@
 # flutter_gp_example
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-A new Flutter project.
-- [webpage of flutter_gp_example](https://grusic91.github.io/flutter_gp_example/)
-=======
-A new Flutter project!
->>>>>>> develop
-=======
-A new Flutter project!
-
->>>>>>> 2f66d64bdcc5f16979bb009dc60e60cb3409ecdb
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
