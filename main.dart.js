@@ -46446,7 +46446,7 @@ s.aJ(new F.Ug(s))
 P.iY(s.e)
 if(s.e<3)P.iY("We have more questsions!")
 else P.iY("No more questions, the game is over!")},
-M:function(a,b){var s=this,r=null,q=L.r2("My firsst App TEST Hello World!",r,r),p=s.e
+M:function(a,b){var s=this,r=null,q=L.r2("My firsst App TEST G dev Hello World!",r,r),p=s.e
 p=p<3?new M.yF(C.v8,p,s.gIN(),r):new E.zl(s.f,s.gNs(),r)
 return new S.po(new M.qy(new E.nU(q,new P.a4(1/0,56),r),p,r),r)}}
 F.Uh.prototype={
