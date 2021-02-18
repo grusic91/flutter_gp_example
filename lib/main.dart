@@ -25,10 +25,10 @@ class _MyAppState extends State<MyApp> {
     {
       'questionText': 'What\'s your favourite animal?',
       'answers': [
+        {'text': 'Lion', 'score': 2},
         {'text': 'Rabit', 'score': 10},
         {'text': 'Snake', 'score': 4},
         {'text': 'Elephant', 'score': 7},
-        {'text': 'Lion', 'score': 2},
       ],
     },
     {
